@@ -1,8 +1,6 @@
 # UUK-Rakryan
-<hr>
 
 Sebagai tugas UUK RAkryan semester genap Tahun 2025, Revalin Amalia dari kelas XI PPLG 2
 
-<hr>
 
 https://github.com/user-attachments/assets/8fd18f46-dc97-46f8-acbc-7164c1444606
