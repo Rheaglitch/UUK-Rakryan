@@ -1,0 +1,62 @@
+#event{
+    margin-top: 3%;
+}
+
+
+#eventRegistration input{
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    padding: 8px 12px;
+    box-shadow:  1px 3px 5px rgba(0, 0, 0, 0.338);
+    cursor: pointer;
+    transition: transform 0.2s;
+    border: none;
+    width: 100%;
+}
+
+#eventRegistration p {
+    color: #A77264;
+}
+
+
+.text-brown {
+  color: #8B5E3C; /* Sesuai tampilan judul speaker, topics, dll */
+}
+.object-fit-cover {
+    object-fit: cover;
+}
+
+#event .Topics li{
+    list-style: none;
+}
+
+#border-start {
+    position: absolute;
+    top: 0;
+    width: 100px;
+    height: 100px;
+    background-color: #000000;
+}
+
+.open-label {
+    background-color: #90977C; 
+    margin-left: 93%;
+    padding: 5px;
+}
+
+#event h4, #eventRegistration h5 {
+    color: #B99430;
+}
+
+#daftarSekarang{
+    border: 1px solid #B99430;
+    color: #B99430;
+    padding: 5px 15%;
+}
+
+#event .container , #eventRegistration .container {
+        box-shadow:  1px 2px 5px rgba(0, 0, 0, 0.338);
+}

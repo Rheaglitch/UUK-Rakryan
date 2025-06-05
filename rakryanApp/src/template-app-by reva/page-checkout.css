@@ -1,0 +1,73 @@
+#payment {
+    background-color: #E2D7A8B2;
+}
+
+.align-right {
+    float: right; /* Aligns the content to the right */
+}
+
+.btn-payment {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    padding: 8px 12px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    cursor: pointer;
+    transition: transform 0.2s;
+    border: none;
+    width: 100%;
+}
+
+.input-voucher {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border: none;
+}
+
+.btn-payment:hover{
+    background-color: rgb(218, 224, 224);
+}
+
+.card {
+    display: flex;
+    background-color: #fff;
+    margin-bottom: 10px;
+    padding: 8px 12px;
+    box-shadow:  1px 2px 5px rgba(0, 0, 0, 0.338);
+    cursor: pointer;
+    transition: transform 0.2s;
+    border: none;
+}
+
+#payment-method a {
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+}
+
+
+#payment h3 , #payment-method .payment-title ,#payment-method .btn-bayar{
+    color: #B99430;
+}
+
+#payment-method .btn-bayar{
+    border: 1px solid #B99430;
+}
+#payment-method .btn-bayar:hover{
+    background-color: #B99430;
+    color: white;
+}
+
+#payment-method .btn-use{
+    background-color: #B99430;
+}
+
+#payment-method h5 {
+    color: #A77264;
+}
+
+#payment-method span {
+    color: black;
+}
+
